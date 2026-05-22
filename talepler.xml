@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<talepler>
+    <talep>
+        <id>1001</id>
+        <musteri>bekim muhja</musteri>
+        <kurum>yildiz teknik</kurum>
+        <departman>biligsayar muh dep</departman>
+        <alan>Donanim</alan>
+        <aciklama>benim biligisayar cok ses yapiyor</aciklama>
+        <durum>COZULDU_ONAY_BEKLIYOR</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot>cozuldu</teknikNot>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1002</id>
+        <musteri>ali can karaca</musteri>
+        <kurum>yildiz teknik</kurum>
+        <departman>biligsayar muh dep</departman>
+        <alan>Donanim</alan>
+        <aciklama>benim laburator biligayarinda ekran bakilmiyor</aciklama>
+        <durum>MUSTERI_YANITI_BEKLIYOR</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot>benimle bir video paylasirmisin</teknikNot>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1003</id>
+        <musteri>ali can karaca</musteri>
+        <kurum>yildiz teknik</kurum>
+        <departman>biligsayar muh dep</departman>
+        <alan>Yazilim</alan>
+        <aciklama>benim laburator biligayarinda ekran bakilmiyor</aciklama>
+        <durum>COZULDU_ONAY_BEKLIYOR</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot>oldu</teknikNot>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1004</id>
+        <musteri>ali can karaca</musteri>
+        <kurum>yildiz teknik</kurum>
+        <departman>biligsayar muh dep</departman>
+        <alan>Yazilim</alan>
+        <aciklama>benim laburator biligayarinda ekran bakilmiyor</aciklama>
+        <durum>COZULDU_ONAY_BEKLIYOR</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot>benimle bir video paylasirmisin</teknikNot>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1005</id>
+        <musteri>ali can karaca</musteri>
+        <kurum>yildiz teknik</kurum>
+        <departman>biligsayar muh dep</departman>
+        <alan>Yazilim</alan>
+        <aciklama>benim laburator biligayarinda ekran bakilmiyor</aciklama>
+        <durum>COZULDU_ONAY_BEKLIYOR</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot>benimle bir video paylasirmisin</teknikNot>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1006</id>
+        <musteri>ali can karaca</musteri>
+        <kurum>yildiz teknik</kurum>
+        <departman>biligsayar muh dep</departman>
+        <alan>Yazilim</alan>
+        <aciklama>benim laburator biligayarinda ekran bakilmiyor</aciklama>
+        <durum>COZULDU_ONAY_BEKLIYOR</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot>oldu</teknikNot>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1007</id>
+        <musteri>ali</musteri>
+        <kurum>sfsdf</kurum>
+        <departman>sdfsf</departman>
+        <alan>Elektrik</alan>
+        <aciklama>dsffsdsf</aciklama>
+        <durum>ATAMA_BEKLIYOR</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot/>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1008</id>
+        <musteri>wrwef</musteri>
+        <kurum>dsgfdfgd</kurum>
+        <departman>dsgfdg</departman>
+        <alan>Donanim</alan>
+        <aciklama>dsgdgd</aciklama>
+        <durum>ISLEMDE</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot/>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1009</id>
+        <musteri>wrwef</musteri>
+        <kurum>dsgfdfgd</kurum>
+        <departman>dsgfdg</departman>
+        <alan>Donanim</alan>
+        <aciklama>dsgdgd</aciklama>
+        <durum>ISLEMDE</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot/>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1010</id>
+        <musteri>wrwef</musteri>
+        <kurum>dsgfdfgd</kurum>
+        <departman>dsgfdg</departman>
+        <alan>Donanim</alan>
+        <aciklama>dsgdgd</aciklama>
+        <durum>ISLEMDE</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot/>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1011</id>
+        <musteri>wrwef</musteri>
+        <kurum>dsgfdfgd</kurum>
+        <departman>dsgfdg</departman>
+        <alan>Donanim</alan>
+        <aciklama>dsgdgd</aciklama>
+        <durum>ISLEMDE</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot/>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1012</id>
+        <musteri>wrwef</musteri>
+        <kurum>dsgfdfgd</kurum>
+        <departman>dsgfdg</departman>
+        <alan>Donanim</alan>
+        <aciklama>dsgdgd</aciklama>
+        <durum>ISLEMDE</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot/>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1013</id>
+        <musteri>fsdgdg</musteri>
+        <kurum>dgdfgdf</kurum>
+        <departman>fgdfgdf</departman>
+        <alan>Donanim</alan>
+        <aciklama>gdfdfg</aciklama>
+        <durum>MUSTERI_YANITI_BEKLIYOR</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot>daha cok anlat bunu</teknikNot>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1014</id>
+        <musteri>ali soulu</musteri>
+        <kurum>fen edebiyat fakultesi</kurum>
+        <departman>matemtaik dep</departman>
+        <alan>Elektronik</alan>
+        <aciklama>benim cihazlar wifi baglanamiyor</aciklama>
+        <durum>COZULDU_ONAY_BEKLIYOR</durum>
+        <tarih>2026-05-14</tarih>
+        <teknikNot>tamam sen forget yap ve bundan sonra tekrar password ekle</teknikNot>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1015</id>
+        <musteri>acsdv</musteri>
+        <kurum>cvdsvs</kurum>
+        <departman>dvdsvdf</departman>
+        <alan>Donanim</alan>
+        <aciklama>dsvdsv</aciklama>
+        <durum>ISLEMDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri/>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1016</id>
+        <musteri>bekim</musteri>
+        <kurum>muhja</kurum>
+        <departman>biligsayar muh</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>benin soyle soyle bir problem var</aciklama>
+        <durum>KAPANDI</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot>dsfdsfdf</teknikNot>
+        <ekipLideri>Lider Ali</ekipLideri>
+        <gerekliAlanlar>Donanim, Elektrik, </gerekliAlanlar>
+        <atananCalisanlar>Ali Teknik (Donanim), Uygun çalışan yok (Elektrik), </atananCalisanlar>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>4</puan>
+        <puanlandi>true</puanlandi>
+    </talep>
+    <talep>
+        <id>1017</id>
+        <musteri>bekim</musteri>
+        <kurum>muhja</kurum>
+        <departman>biligsayar muh</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>benin soyle soyle bir problem var</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot>Müşteri çözümü reddetti: sfsdfsdf</teknikNot>
+        <ekipLideri>Lider Ayse</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1018</id>
+        <musteri>bbfb</musteri>
+        <kurum>dfgfdgf</kurum>
+        <departman>dgdf</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>gdfg</aciklama>
+        <durum>TEKNIK_CALISANLARA_ATANDI</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ali</ekipLideri>
+        <gerekliAlanlar>Ag, Elektrik, Mekanik, </gerekliAlanlar>
+        <atananCalisanlar>Yusuf Karaca (Ag), Ali Can Tatli (Elektrik), Fatih Baskan (Mekanik), </atananCalisanlar>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1019</id>
+        <musteri>bbfb</musteri>
+        <kurum>dfgfdgf</kurum>
+        <departman>dgdf</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>gdfg</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ayse</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1020</id>
+        <musteri>Bekim Muhja</musteri>
+        <kurum>Yildiz Teknik</kurum>
+        <departman>BILGISAYAR MUH</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>Şirket içi uygulama ağ üzerinden erişilemiyor.</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Ali Can Tatli</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1021</id>
+        <musteri>Enes Aydin</musteri>
+        <kurum>Yildiz Teknik</kurum>
+        <departman>elektrik muh</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>IP kameralar merkeze görüntü göndermiyor.</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Ali Can Tatli</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1022</id>
+        <musteri>Burak Deniz</musteri>
+        <kurum>Teknopark</kurum>
+        <departman>Tubitak</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>CRM sisteminde müşteri kayıtları görüntülenmiyor.</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ali</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1023</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ayse</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1024</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Ali Can Tatli</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1025</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ali</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1026</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ayse</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1027</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Ali Can Tatli</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1028</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ali</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1029</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ayse</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1030</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>TEKNIK_CALISANLARA_ATANDI</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Ali Can Tatli</ekipLideri>
+        <gerekliAlanlar>Donanim, Elektrik, Mekanik, </gerekliAlanlar>
+        <atananCalisanlar>Emre Kaya (Donanim), Ali Can Tatli (Elektrik), Fatih Baskan (Mekanik), </atananCalisanlar>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1031</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ali</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1032</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ayse</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1033</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Ali Can Tatli</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1034</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>KAPANDI</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot>Fatma Yazılımcı kendi işini tamamladı: her sey oldu</teknikNot>
+        <ekipLideri>Lider Ali</ekipLideri>
+        <gerekliAlanlar>Donanim, Yazilim, Elektronik, </gerekliAlanlar>
+        <atananCalisanlar>Burak Yılmaz (Donanim), Fatma Yazılımcı (Yazilim), Gokhan Bilgin (Elektronik), </atananCalisanlar>
+        <calisanDurumlari>Burak Yılmaz kendi işini tamamladı: her sey oldu
+Burak Yılmaz kendi işini tamamladı: her sey oldu
+Fatma Yazılımcı kendi işini tamamladı: her sey oldu
+
+</calisanDurumlari>
+        <ekipLideriNotlari>Ekip lideri çözümü müşteriye gönderdi: Lider Ali
+Ekip lideri çözümü müşteriye gönderdi: Lider Ali
+
+</ekipLideriNotlari>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>4</puan>
+        <puanlandi>true</puanlandi>
+    </talep>
+    <talep>
+        <id>1035</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Lider Ayse</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1036</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Ali Can Tatli</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1037</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>utku kalay</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1038</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>utku kalay</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1039</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>utku kalay</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1040</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>utku kalay</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1041</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>utku kalay</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1042</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>utku kalay</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1043</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>utku kalay</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1044</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>ahmet elbir</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1045</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>ahmet elbir</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1046</id>
+        <musteri>Bekim muhja</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>ahmet elbir</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1047</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Yusuf Karaca</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1048</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>TEKNIK_CALISANLARA_ATANDI</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Sejid Dulaj</ekipLideri>
+        <gerekliAlanlar>Yazilim, Elektronik, Guvenlik, </gerekliAlanlar>
+        <atananCalisanlar>Zeynep Arslan (Yazilim), Gokhan Bilgin (Elektronik), Sejid Dulaj (Guvenlik), </atananCalisanlar>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1049</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Yusuf Karaca</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1050</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>TEKNIK_CALISANLARA_ATANDI</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Sejid Dulaj</ekipLideri>
+        <gerekliAlanlar>Ag, Elektrik, Mekanik, </gerekliAlanlar>
+        <atananCalisanlar>Yusuf Karaca (Ag), Ali Can Tatli (Elektrik), Fatih Baskan (Mekanik), </atananCalisanlar>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1051</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Yusuf Karaca</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1052</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>CALISANLAR_ISI_TAMAMLADI</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot>Fatma Yazılımcı kendi işini tamamladı: her sey oldu</teknikNot>
+        <ekipLideri>Sejid Dulaj</ekipLideri>
+        <gerekliAlanlar>Donanim, Yazilim, Elektronik, </gerekliAlanlar>
+        <atananCalisanlar>Emre Kaya (Donanim), Fatma Yazılımcı (Yazilim), Gokhan Bilgin (Elektronik), </atananCalisanlar>
+        <calisanDurumlari>Fatma Yazılımcı kendi işini tamamladı: her sey oldu
+
+</calisanDurumlari>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1053</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Yusuf Karaca</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1054</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Sejid Dulaj</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1055</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Yusuf Karaca</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1056</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Sejid Dulaj</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1057</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Yusuf Karaca</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1058</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>TEKNIK_CALISANLARA_ATANDI</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Sejid Dulaj</ekipLideri>
+        <gerekliAlanlar>Guvenlik, VeriTaban, </gerekliAlanlar>
+        <atananCalisanlar>Ahmet Elbir (Guvenlik), Utku Kalay (VeriTaban), </atananCalisanlar>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1059</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Yusuf Karaca</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1060</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>TEKNIK_CALISANLARA_ATANDI</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>Sejid Dulaj</ekipLideri>
+        <gerekliAlanlar>Ag, Elektrik, Mekanik, Kamera Sistemleri, </gerekliAlanlar>
+        <atananCalisanlar>Ayşe Uzman (Ag), Ali Can Tatli (Elektrik), Fatih Baskan (Mekanik), Uygun çalışan yok (Kamera Sistemleri), </atananCalisanlar>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1061</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>ahmet elbir</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1062</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>ahmet elbir</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1063</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>ahmet elbir</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1064</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>zeynep arslan</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1065</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>zeynep arslan</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1066</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>zeynep arslan</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1067</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>zeynep arslan</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1068</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>zeynep arslan</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1069</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>zeynep arslan</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1070</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>ahmet elbir</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1071</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>zeynep arslan</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1072</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>koco fani</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1073</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>koco fani</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1074</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-17</tarih>
+        <teknikNot/>
+        <ekipLideri>koco fani</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1075</id>
+        <musteri>Hajdar pasa</musteri>
+        <kurum>sakaray teknik oto sanay</kurum>
+        <departman>mekatronik bolumu</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>Son 3 gündür kurumumuzda birçok kullanıcı sistemlere erişememektedir.
+
+Sorun ilk olarak personel giriş sisteminde başlamış, daha sonra e-posta sunucularında ve dosya paylaşım sistemlerinde de yavaşlama oluşmuştur.
+
+Belirtiler:
+
+- Kullanıcılar Active Directory hesaplarıyla giriş yapamıyor.
+- Bazı bilgisayarlar IP alıyor ancak internet erişimi yok.
+- İç ağda dosya sunucusuna erişim çok yavaş.
+- Kamera kayıt sistemi zaman zaman bağlantıyı kaybediyor.
+- Birkaç bilgisayarda çalışan uygulamalar lisans doğrulaması yapamıyor.
+- Sunucu odasında kısa süreli elektrik kesintisi yaşandığı bilgisi alındı.
+- Sorunun yaklaşık 250 kullanıcıyı etkilediği tahmin edilmektedir.
+
+Beklenti:
+
+Sorunun kök nedeni bulunmalı, sistemler yeniden çalışır hale getirilmeli, veri kaybı kontrol edilmeli ve tekrar yaşanmaması için teknik öneriler sunulmalıdır.</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-22</tarih>
+        <teknikNot>Müşteri çözümü reddetti: hic bir bilgi yok ki nasil cozuldu</teknikNot>
+        <ekipLideri>koco fani</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari>Ekip lideri koco fani departman ve kişi ataması yaptı.
+Ekip lideri çözümü müşteriye gönderdi: koco fani
+</ekipLideriNotlari>
+        <musteriCevaplari>Müşteri çözümü reddetti: hic bir bilgi yok ki nasil cozuldu
+</musteriCevaplari>
+        <retSayisi>1</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+</talepler>

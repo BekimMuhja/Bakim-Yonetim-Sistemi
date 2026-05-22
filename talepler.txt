@@ -1,0 +1,770 @@
+Talep ID: 1001
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1002
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1003
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1004
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1005
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1006
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1007
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1008
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1009
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1010
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1011
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1012
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1013
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1014
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1015
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1016
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1017
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1018
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1019
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1020
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1021
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1022
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1023
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1024
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1025
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1026
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1027
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1028
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1029
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1030
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1031
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1032
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1033
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1034
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1035
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1036
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1037
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1038
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1039
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1040
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1041
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1042
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1043
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1044
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1045
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1046
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1047
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1048
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1049
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1050
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1051
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1052
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1053
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1054
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1055
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1056
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1057
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1058
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1059
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1060
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1061
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1062
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1063
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1064
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Mehmet Usta
+-----------------------------
+Talep ID: 1065
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Donanim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------
+Talep ID: 1066
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Yazilim
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Fatma Yazılımcı
+-----------------------------
+Talep ID: 1067
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Elektrik
+Açıklama: fsdfdsff
+Durum: ATAMA_BEKLIYOR
+Tarih: 2026-05-14
+Atanan Çalışan: Yok
+-----------------------------
+Talep ID: 1068
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Elektrik
+Açıklama: fsdfdsff
+Durum: ATAMA_BEKLIYOR
+Tarih: 2026-05-14
+Atanan Çalışan: Yok
+-----------------------------
+Talep ID: 1069
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Elektrik
+Açıklama: fsdfdsff
+Durum: ATAMA_BEKLIYOR
+Tarih: 2026-05-14
+Atanan Çalışan: Yok
+-----------------------------
+Talep ID: 1070
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Elektrik
+Açıklama: fsdfdsff
+Durum: ATAMA_BEKLIYOR
+Tarih: 2026-05-14
+Atanan Çalışan: Yok
+-----------------------------
+Talep ID: 1071
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Elektrik
+Açıklama: fsdfdsff
+Durum: ATAMA_BEKLIYOR
+Tarih: 2026-05-14
+Atanan Çalışan: Yok
+-----------------------------
+Talep ID: 1072
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Ag
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ayşe Uzman
+-----------------------------
+Talep ID: 1073
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Ag
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ayşe Uzman
+-----------------------------
+Talep ID: 1074
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Ag
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ayşe Uzman
+-----------------------------
+Talep ID: 1075
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Ag
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ayşe Uzman
+-----------------------------
+Talep ID: 1076
+Müşteri: sdfsdfdf
+Kurum: sdfsdfsd
+Departman: dsfsdfdsf
+Konu Alanı: Ag
+Açıklama: fsdfdsff
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ayşe Uzman
+-----------------------------
+Talep ID: 1001
+Müşteri: esfsdf
+Kurum: sdfsdf
+Departman: sdfsdfs
+Konu Alanı: Donanim
+Açıklama: sfdsdfds
+Durum: ISLEMDE
+Tarih: 2026-05-14
+Atanan Çalışan: Ali Teknik
+-----------------------------

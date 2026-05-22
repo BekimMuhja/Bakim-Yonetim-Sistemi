@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ekipLiderleri>
+    <ekipLideri>
+        <adSoyad>Lider Ali</adSoyad>
+        <aktifTalepSayisi>7</aktifTalepSayisi>
+    </ekipLideri>
+    <ekipLideri>
+        <adSoyad>Lider Ayse</adSoyad>
+        <aktifTalepSayisi>7</aktifTalepSayisi>
+    </ekipLideri>
+    <ekipLideri>
+        <adSoyad>Ali Can Tatli</adSoyad>
+        <aktifTalepSayisi>7</aktifTalepSayisi>
+    </ekipLideri>
+    <ekipLideri>
+        <adSoyad>Yusuf Karaca</adSoyad>
+        <aktifTalepSayisi>7</aktifTalepSayisi>
+    </ekipLideri>
+    <ekipLideri>
+        <adSoyad>Sejid Dulaj</adSoyad>
+        <aktifTalepSayisi>7</aktifTalepSayisi>
+    </ekipLideri>
+    <ekipLideri>
+        <adSoyad>utku kalay</adSoyad>
+        <aktifTalepSayisi>7</aktifTalepSayisi>
+    </ekipLideri>
+    <ekipLideri>
+        <adSoyad>ahmet elbir</adSoyad>
+        <aktifTalepSayisi>7</aktifTalepSayisi>
+    </ekipLideri>
+    <ekipLideri>
+        <adSoyad>zeynep arslan</adSoyad>
+        <aktifTalepSayisi>7</aktifTalepSayisi>
+    </ekipLideri>
+    <ekipLideri>
+        <adSoyad>koco fani</adSoyad>
+        <aktifTalepSayisi>4</aktifTalepSayisi>
+    </ekipLideri>
+</ekipLiderleri>

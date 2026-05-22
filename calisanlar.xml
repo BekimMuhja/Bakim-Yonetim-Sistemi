@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<calisanlar>
+    <calisan>
+        <adSoyad>Ali Teknik</adSoyad>
+        <alan>Donanim</alan>
+        <aktifTalepSayisi>3</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Mehmet Usta</adSoyad>
+        <alan>Donanim</alan>
+        <aktifTalepSayisi>3</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Ayşe Uzman</adSoyad>
+        <alan>Ag</alan>
+        <aktifTalepSayisi>3</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Fatma Yazılımcı</adSoyad>
+        <alan>Yazilim</alan>
+        <aktifTalepSayisi>2</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Gokhan Bilgin</adSoyad>
+        <alan>Elektronik</alan>
+        <aktifTalepSayisi>4</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Ali Can Tatli</adSoyad>
+        <alan>Elektrik</alan>
+        <aktifTalepSayisi>4</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Fatih Baskan</adSoyad>
+        <alan>Mekanik</alan>
+        <aktifTalepSayisi>5</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Emre Kaya</adSoyad>
+        <alan>Donanim</alan>
+        <aktifTalepSayisi>2</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Burak Yılmaz</adSoyad>
+        <alan>Donanim</alan>
+        <aktifTalepSayisi>2</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Yusuf Karaca</adSoyad>
+        <alan>Ag</alan>
+        <aktifTalepSayisi>2</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Zeynep Arslan</adSoyad>
+        <alan>Yazilim</alan>
+        <aktifTalepSayisi>1</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Sejid Dulaj</adSoyad>
+        <alan>Guvenlik</alan>
+        <aktifTalepSayisi>1</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Utku Kalay</adSoyad>
+        <alan>VeriTaban</alan>
+        <aktifTalepSayisi>1</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>Ahmet Elbir</adSoyad>
+        <alan>Guvenlik</alan>
+        <aktifTalepSayisi>1</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>koco fani</adSoyad>
+        <alan>Ag</alan>
+        <aktifTalepSayisi>0</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>elma canga</adSoyad>
+        <alan>Yazilim</alan>
+        <aktifTalepSayisi>1</aktifTalepSayisi>
+    </calisan>
+    <calisan>
+        <adSoyad>andi ymeraj</adSoyad>
+        <alan>Yazilim</alan>
+        <aktifTalepSayisi>1</aktifTalepSayisi>
+    </calisan>
+</calisanlar>

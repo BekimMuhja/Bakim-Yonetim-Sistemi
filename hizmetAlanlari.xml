@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hizmetAlanlari>
+    <alan>Donanim</alan>
+    <alan>Ag</alan>
+    <alan>Yazilim</alan>
+    <alan>Elektrik</alan>
+    <alan>Elektronik</alan>
+    <alan>Mekanik</alan>
+    <alan>Guvenlik</alan>
+    <alan>VeriTaban</alan>
+    <alan>Mobil Sistemler</alan>
+    <alan>Kamera Sistemleri</alan>
+    <alan>IoT Sistemleri</alan>
+</hizmetAlanlari>
