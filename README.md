@@ -1,6 +1,6 @@
 # Bakım ve Onarım Bilgi Sistemi
 
-BLM2042 Sistem Analizi ve Tasarımı dönem projesi.
+BLM3722 Yazilim Muhendisligi dönem projesi.
 
 ## Özellikler
 
