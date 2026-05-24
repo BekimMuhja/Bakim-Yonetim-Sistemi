@@ -46,6 +46,7 @@ public class XmlTalepServisi {
                 elemanEkle(doc, talepElement, "calisanDurumlari", talep.getCalisanDurumlari());
                 elemanEkle(doc, talepElement, "ekipLideriNotlari", talep.getEkipLideriNotlari());
                 elemanEkle(doc, talepElement, "musteriCevaplari", talep.getMusteriCevaplari());
+                elemanEkle(doc, talepElement, "tamamlayanCalisanlar", talep.getTamamlayanCalisanlar());
                 elemanEkle(doc, talepElement, "retSayisi", String.valueOf(talep.getRetSayisi()));
 
                 elemanEkle(doc, talepElement, "puan", String.valueOf(talep.getPuan()));
@@ -109,6 +110,7 @@ public class XmlTalepServisi {
                 String calisanDurumlari = getText(e, "calisanDurumlari");
                 String ekipLideriNotlari = getText(e, "ekipLideriNotlari");
                 String musteriCevaplari = getText(e, "musteriCevaplari");
+                String tamamlayanCalisanlar = getText(e, "tamamlayanCalisanlar");
                 String retText = getText(e, "retSayisi");
 
                 Musteri musteri = new Musteri(musteriAdi, kurum, departman);
@@ -138,6 +140,18 @@ public class XmlTalepServisi {
 
                 if (!musteriCevaplari.isEmpty()) {
                     talep.musteriBilgiEkle(musteriCevaplari);
+                }
+
+                if (!tamamlayanCalisanlar.isEmpty()) {
+                    String[] tamamlayanlar = tamamlayanCalisanlar.split(",");
+
+                    for (String calisanAdi : tamamlayanlar) {
+                        calisanAdi = calisanAdi.trim();
+
+                        if (!calisanAdi.isEmpty()) {
+                            talep.calisanTamamladi(calisanAdi);
+                        }
+                    }
                 }
 
                 if (!retText.isEmpty()) {

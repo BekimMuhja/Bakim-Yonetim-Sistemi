@@ -1,16 +1,3 @@
-/*
- * Bakım ve Onarım Bilgi Sistemi
- * BLM3722 - Yazilim Muhendisligi
- *
- * Bu sınıf müşteri, ekip lideri, teknik çalışan ve yönetici panellerini içerir.
- * Müşteri talep oluşturur, ekip lideri departman/çalışan ataması yapar,
- * teknik çalışan işi tamamlar veya ek bilgi ister, yönetici rapor görüntüler.
- */
-
-
-
-
-
 import java.time.LocalDate;
 
 public class HizmetTalebi {
@@ -38,6 +25,7 @@ public class HizmetTalebi {
     private String calisanDurumlari = "";
     private String ekipLideriNotlari = "";
     private String musteriCevaplari = "";
+    private String tamamlayanCalisanlar = "";
 
     private int retSayisi = 0;
 
@@ -146,6 +134,10 @@ public class HizmetTalebi {
         return musteriCevaplari;
     }
 
+    public String getTamamlayanCalisanlar() {
+        return tamamlayanCalisanlar;
+    }
+
     public int getRetSayisi() {
         return retSayisi;
     }
@@ -198,8 +190,52 @@ public class HizmetTalebi {
         musteriCevaplari += bilgi + "\n";
     }
 
-    public void calisanIsiBitirdi() {
-        durum = TalepDurumu.CALISANLAR_ISI_TAMAMLADI;
+    public void calisanTamamladi(String calisanAdi) {
+        if (!tamamlayanCalisanlar.toLowerCase().contains(calisanAdi.toLowerCase())) {
+            tamamlayanCalisanlar += calisanAdi + ",";
+        }
+
+        if (tumCalisanlarTamamladi()) {
+            durum = TalepDurumu.CALISANLAR_ISI_TAMAMLADI;
+        } else {
+            durum = TalepDurumu.TEKNIK_CALISANLARA_ATANDI;
+        }
+    }
+
+    public boolean tumCalisanlarTamamladi() {
+        if (atananCalisanlar == null || atananCalisanlar.isEmpty()) {
+            return false;
+        }
+
+        String[] atananlar = atananCalisanlar.split(",");
+
+        for (String kisi : atananlar) {
+            kisi = kisi.trim();
+
+            if (kisi.isEmpty()) {
+                continue;
+            }
+
+            if (kisi.toLowerCase().contains("uygun çalışan yok")) {
+                continue;
+            }
+
+            if (kisi.toLowerCase().contains("eksik çalışan")) {
+                continue;
+            }
+
+            int index = kisi.indexOf("(");
+
+            if (index != -1) {
+                kisi = kisi.substring(0, index).trim();
+            }
+
+            if (!tamamlayanCalisanlar.toLowerCase().contains(kisi.toLowerCase())) {
+                return false;
+            }
+        }
+
+        return true;
     }
 
     public void ekipLiderineOnayaGonder() {
@@ -233,6 +269,7 @@ public class HizmetTalebi {
         atananCalisan = null;
         gerekliAlanlar = "";
         atananCalisanlar = "";
+        tamamlayanCalisanlar = "";
         teknikNot = "Müşteri reddetti.";
     }
 

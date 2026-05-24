@@ -1,17 +1,3 @@
-/*
- * Bakım ve Onarım Bilgi Sistemi
- * BLM3722 - Yazilim Muhendisligi
- *
- * Bu sınıf müşteri, ekip lideri, teknik çalışan ve yönetici panellerini içerir.
- * Müşteri talep oluşturur, ekip lideri departman/çalışan ataması yapar,
- * teknik çalışan işi tamamlar veya ek bilgi ister, yönetici rapor görüntüler.
- */
-
-
-
-
-
-
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
@@ -35,6 +21,7 @@ public class BakimYonetimGUI extends JFrame {
     private JTextArea ekipLideriDetayArea;
     private JCheckBox[] alanCheckBoxlari;
     private JSpinner[] alanKisiSpinnerlari;
+    private JTextArea liderCozumNotArea;
 
     private DefaultListModel<EkipLideri> ekipLideriListModel;
     private JList<EkipLideri> ekipLideriListesi;
@@ -178,6 +165,7 @@ public class BakimYonetimGUI extends JFrame {
 
     private JPanel ekipLideriPaneliOlustur() {
         JPanel anaPanel = new JPanel(new BorderLayout());
+
         JPanel loginPanel = new JPanel(new GridLayout(0, 2, 10, 10));
 
         loginPanel.add(new JLabel("Ekip Lideri Adı:"));
@@ -193,6 +181,7 @@ public class BakimYonetimGUI extends JFrame {
 
         ekipLideriTalepListModel = new DefaultListModel<>();
         ekipLideriTalepListesi = new JList<>(ekipLideriTalepListModel);
+
         ekipLideriDetayArea = new JTextArea();
         ekipLideriDetayArea.setEditable(false);
 
@@ -200,41 +189,67 @@ public class BakimYonetimGUI extends JFrame {
         ortaPanel.add(new JScrollPane(ekipLideriTalepListesi));
         ortaPanel.add(new JScrollPane(ekipLideriDetayArea));
 
-        JPanel alanPanel = new JPanel(new GridLayout(0, 3, 10, 10));
+        JPanel departmanPanel = new JPanel(new GridLayout(0, 3, 5, 5));
         alanCheckBoxlari = new JCheckBox[hizmetAlanlari.size()];
         alanKisiSpinnerlari = new JSpinner[hizmetAlanlari.size()];
 
         for (int i = 0; i < hizmetAlanlari.size(); i++) {
             alanCheckBoxlari[i] = new JCheckBox(hizmetAlanlari.get(i));
             alanKisiSpinnerlari[i] = new JSpinner(new SpinnerNumberModel(1, 1, 10, 1));
-            alanPanel.add(alanCheckBoxlari[i]);
-            alanPanel.add(new JLabel("Kişi Sayısı:"));
-            alanPanel.add(alanKisiSpinnerlari[i]);
+
+            departmanPanel.add(alanCheckBoxlari[i]);
+            departmanPanel.add(new JLabel("Kişi:"));
+            departmanPanel.add(alanKisiSpinnerlari[i]);
         }
 
-        JButton ataButton = new JButton("Departmanları Seç ve Çalışanlara Ata");
+        JScrollPane departmanScroll = new JScrollPane(departmanPanel);
+        departmanScroll.setPreferredSize(new Dimension(320, 0));
+
+        JPanel altPanel = new JPanel(new BorderLayout());
+
+        JPanel notPanel = new JPanel(new BorderLayout());
+        notPanel.add(new JLabel("Müşteriye Gönderilecek Çözüm / Ek Bilgi Notu:"), BorderLayout.NORTH);
+
+        liderCozumNotArea = new JTextArea(3, 20);
+        notPanel.add(new JScrollPane(liderCozumNotArea), BorderLayout.CENTER);
+
+        JPanel buttonPanel = new JPanel(new GridLayout(1, 3, 10, 10));
+
+        JButton ataButton = new JButton("Çalışanlara Ata");
+        JButton liderEkBilgiIsteButton = new JButton("Müşteriden Ek Bilgi İste");
         JButton musteriyiBilgilendirButton = new JButton("Çözümü Müşteriye Gönder");
-        alanPanel.add(ataButton);
-        alanPanel.add(musteriyiBilgilendirButton);
+
+        buttonPanel.add(ataButton);
+        buttonPanel.add(liderEkBilgiIsteButton);
+        buttonPanel.add(musteriyiBilgilendirButton);
+
+        altPanel.add(notPanel, BorderLayout.CENTER);
+        altPanel.add(buttonPanel, BorderLayout.SOUTH);
 
         anaPanel.add(loginPanel, BorderLayout.NORTH);
         anaPanel.add(ortaPanel, BorderLayout.CENTER);
-        anaPanel.add(alanPanel, BorderLayout.SOUTH);
+        anaPanel.add(departmanScroll, BorderLayout.EAST);
+        anaPanel.add(altPanel, BorderLayout.SOUTH);
 
         girisButton.addActionListener(e -> ekipLideriGirisYap());
+
         ekipLideriTalepListesi.addListSelectionListener(e -> {
             if (!e.getValueIsAdjusting()) {
                 ekipLideriSeciliTalep = ekipLideriTalepListesi.getSelectedValue();
                 ekipLideriTalepDetayGoster();
             }
         });
+
         ataButton.addActionListener(e -> departmanlariAta());
+        liderEkBilgiIsteButton.addActionListener(e -> liderEkBilgiIste());
         musteriyiBilgilendirButton.addActionListener(e -> liderCozumuMusteriyeGonder());
+
         return anaPanel;
     }
 
     private JPanel teknikCalisanPaneliOlustur() {
         JPanel anaPanel = new JPanel(new BorderLayout());
+
         JPanel loginPanel = new JPanel(new GridLayout(0, 2, 10, 10));
 
         loginPanel.add(new JLabel("Çalışan Adı:"));
@@ -250,15 +265,15 @@ public class BakimYonetimGUI extends JFrame {
 
         talepListModel = new DefaultListModel<>();
         talepListesi = new JList<>(talepListModel);
+
         teknikTalepArea = new JTextArea();
         teknikTalepArea.setEditable(false);
+
         teknikNotArea = new JTextArea(4, 20);
 
-        JButton ekBilgiIsteButton = new JButton("Ek Bilgi İste");
         JButton isiTamamladimButton = new JButton("Kendi İşimi Tamamladım");
 
         JPanel buttonPanel = new JPanel();
-        buttonPanel.add(ekBilgiIsteButton);
         buttonPanel.add(isiTamamladimButton);
 
         JPanel ortaPanel = new JPanel(new GridLayout(1, 2));
@@ -266,7 +281,7 @@ public class BakimYonetimGUI extends JFrame {
         ortaPanel.add(new JScrollPane(teknikTalepArea));
 
         JPanel altPanel = new JPanel(new BorderLayout());
-        altPanel.add(new JLabel("Teknik Not / Ek Bilgi Mesajı:"), BorderLayout.NORTH);
+        altPanel.add(new JLabel("Yapılan İş Notu:"), BorderLayout.NORTH);
         altPanel.add(new JScrollPane(teknikNotArea), BorderLayout.CENTER);
         altPanel.add(buttonPanel, BorderLayout.SOUTH);
 
@@ -275,14 +290,16 @@ public class BakimYonetimGUI extends JFrame {
         anaPanel.add(altPanel, BorderLayout.SOUTH);
 
         girisButton.addActionListener(e -> teknikGirisYap());
+
         talepListesi.addListSelectionListener(e -> {
             if (!e.getValueIsAdjusting()) {
                 seciliTalep = talepListesi.getSelectedValue();
                 seciliTalepDetayGoster();
             }
         });
-        ekBilgiIsteButton.addActionListener(e -> ekBilgiIste());
+
         isiTamamladimButton.addActionListener(e -> cozulduYap());
+
         return anaPanel;
     }
 
@@ -592,49 +609,124 @@ public class BakimYonetimGUI extends JFrame {
         JOptionPane.showMessageDialog(this, "Departmanlara göre çalışan ataması yapıldı.");
     }
 
+    private void liderEkBilgiIste() {
+        if (girisYapanEkipLideri == null) {
+            JOptionPane.showMessageDialog(this, "Önce ekip lideri girişi yapınız.");
+            return;
+        }
+
+        if (ekipLideriSeciliTalep == null) {
+            JOptionPane.showMessageDialog(this, "Lütfen bir talep seçiniz.");
+            return;
+        }
+
+        String mesaj = JOptionPane.showInputDialog(
+                this,
+                "Müşteriden istenecek ek bilgiyi yazınız:",
+                "Ek Bilgi İste",
+                JOptionPane.QUESTION_MESSAGE
+        );
+
+        if (mesaj == null || mesaj.trim().isEmpty()) {
+            JOptionPane.showMessageDialog(this, "Ek bilgi mesajı boş olamaz.");
+            return;
+        }
+
+        String bilgi = "Ekip lideri " + girisYapanEkipLideri.getAdSoyad()
+                + " müşteriden ek bilgi istedi: " + mesaj.trim();
+
+        ekipLideriSeciliTalep.setTeknikNot(bilgi);
+        ekipLideriSeciliTalep.ekipLideriBilgiEkle(bilgi);
+        ekipLideriSeciliTalep.musteriYanitiBekliyorYap();
+
+        xmlTalepServisi.talepleriKaydet(talepler);
+
+        ekipLideriTalepleriniYenile();
+        ekipLideriTalepDetayGoster();
+
+        JOptionPane.showMessageDialog(this, "Ek bilgi isteği müşteriye gönderildi.");
+    }
+
     private void liderCozumuMusteriyeGonder() {
         if (girisYapanEkipLideri == null) {
             JOptionPane.showMessageDialog(this, "Önce ekip lideri girişi yapınız.");
             return;
         }
+
         if (ekipLideriSeciliTalep == null) {
             JOptionPane.showMessageDialog(this, "Lütfen bir talep seçiniz.");
             return;
         }
-        if (ekipLideriSeciliTalep.getDurum() != TalepDurumu.CALISANLAR_ISI_TAMAMLADI &&
-                ekipLideriSeciliTalep.getDurum() != TalepDurumu.EKIP_LIDERI_ONAY_BEKLIYOR) {
-            JOptionPane.showMessageDialog(this, "Önce teknik çalışan işi tamamlamalıdır.");
+
+        if (!ekipLideriSeciliTalep.tumCalisanlarTamamladi()) {
+            JOptionPane.showMessageDialog(this, "Tüm teknik çalışanlar işi tamamlamadan çözüm müşteriye gönderilemez.");
             return;
         }
 
-        ekipLideriSeciliTalep.ekipLideriBilgiEkle("Ekip lideri çözümü müşteriye gönderdi: " + girisYapanEkipLideri.getAdSoyad());
+        String liderCozumNotu = liderCozumNotArea.getText().trim();
+
+        if (liderCozumNotu.isEmpty()) {
+            JOptionPane.showMessageDialog(this, "Lütfen müşteriye gönderilecek çözüm notunu yazınız.");
+            return;
+        }
+
+        ekipLideriSeciliTalep.setTeknikNot("Ekip Lideri Çözüm Notu: " + liderCozumNotu);
+
+        ekipLideriSeciliTalep.ekipLideriBilgiEkle(
+                "Ekip lideri çözümü müşteriye gönderdi: "
+                        + girisYapanEkipLideri.getAdSoyad()
+                        + " | Not: "
+                        + liderCozumNotu
+        );
+
         ekipLideriSeciliTalep.cozulduYap();
+
         xmlTalepServisi.talepleriKaydet(talepler);
+
+        liderCozumNotArea.setText("");
+
         ekipLideriTalepleriniYenile();
         ekipLideriTalepDetayGoster();
-        JOptionPane.showMessageDialog(this, "Çözüm müşteriye onay için gönderildi.");
+
+        JOptionPane.showMessageDialog(this, "Çözüm notu müşteriye onay için gönderildi.");
     }
 
     private void musteriTalepGoruntule() {
         HizmetTalebi talep = musteriTalepIdIleBul();
+
         if (talep == null) return;
+
         String sonuc = "";
         sonuc += "Talep Bilgileri\n";
         sonuc += "-------------------------\n";
         sonuc += "Talep ID: " + talep.getTalepId() + "\n";
-        sonuc += "Müşteri: " + talep.getMusteri().getAdSoyad() + "\n";
-        sonuc += "Kurum: " + talep.getMusteri().getKurum() + "\n";
-        sonuc += "Departman: " + talep.getMusteri().getDepartman() + "\n";
         sonuc += "Açıklama: " + talep.getAciklama() + "\n";
         sonuc += "Durum: " + talep.getDurum() + "\n";
         sonuc += "Tarih: " + talep.getOlusturmaTarihi() + "\n";
-        sonuc += "Ekip Lideri: " + (talep.getEkipLideri() == null ? "Yok" : talep.getEkipLideri().getAdSoyad()) + "\n";
-        sonuc += "Gerekli Alanlar: " + talep.getGerekliAlanlar() + "\n";
-        sonuc += "Atanan Çalışanlar: " + talep.getAtananCalisanlar() + "\n";
-        sonuc += "\nÇalışan Durumları:\n" + talep.getCalisanDurumlari() + "\n";
-        sonuc += "\nEkip Lideri Notları:\n" + talep.getEkipLideriNotlari() + "\n";
-        sonuc += "\nMüşteri Cevapları:\n" + talep.getMusteriCevaplari() + "\n";
-        sonuc += "\nTeknik Not:\n" + talep.getTeknikNot() + "\n";
+        sonuc += "Ekip Lideri: " + (talep.getEkipLideri() == null ? "Henüz atanmadı" : talep.getEkipLideri().getAdSoyad()) + "\n\n";
+
+        if (talep.getDurum() == TalepDurumu.MUSTERI_YANITI_BEKLIYOR) {
+            sonuc += "Ekip lideri sizden ek bilgi istiyor:\n";
+            sonuc += talep.getTeknikNot() + "\n\n";
+            sonuc += "Cevabınızı aşağıdaki alana yazıp 'Ek Bilgi Gönder' butonuna basınız.\n";
+        } else if (talep.getDurum() == TalepDurumu.COZULDU_ONAY_BEKLIYOR) {
+            sonuc += "Çözüm ekip lideri tarafından onayınıza gönderildi.\n";
+            sonuc += "Çözüm Notu:\n" + talep.getTeknikNot() + "\n\n";
+            sonuc += "Çözümü kabul ediyorsanız puan seçip 'Onayla ve Puan Ver' butonuna basınız.\n";
+            sonuc += "Sorun devam ediyorsa ret açıklaması yazıp 'Çözümü Reddet' butonuna basınız.\n";
+        } else if (talep.getDurum() == TalepDurumu.KAPANDI) {
+            sonuc += "Talep kapatılmıştır.\n";
+            if (talep.isPuanlandi()) {
+                sonuc += "Verilen Puan: " + talep.getPuan() + " / 5\n";
+            }
+        } else {
+            sonuc += "Talebiniz işlem sürecindedir. Gerekli durumda ekip lideri sizinle sistem üzerinden iletişime geçecektir.\n";
+        }
+
+        if (!talep.getMusteriCevaplari().isEmpty()) {
+            sonuc += "\nGönderdiğiniz Cevaplar:\n" + talep.getMusteriCevaplari() + "\n";
+        }
+
         musteriSonucArea.setText(sonuc);
     }
 
@@ -776,60 +868,71 @@ public class BakimYonetimGUI extends JFrame {
         teknikTalepArea.setText(detay);
     }
 
-    private void ekBilgiIste() {
-        if (girisYapanCalisan == null) {
-            JOptionPane.showMessageDialog(this, "Önce teknik çalışan girişi yapınız.");
-            return;
-        }
-        if (seciliTalep == null) {
-            JOptionPane.showMessageDialog(this, "Lütfen listeden bir talep seçiniz.");
-            return;
-        }
-        String mesaj = teknikNotArea.getText().trim();
-        if (mesaj.isEmpty()) {
-            JOptionPane.showMessageDialog(this, "Lütfen ek bilgi mesajı giriniz.");
-            return;
-        }
-        String bilgi = girisYapanCalisan.getAdSoyad() + " ek bilgi istedi: " + mesaj;
-        seciliTalep.setTeknikNot(bilgi);
-        seciliTalep.teknikBilgiEkle(bilgi);
-        seciliTalep.musteriYanitiBekliyorYap();
-        xmlTalepServisi.talepleriKaydet(talepler);
-        teknikTalepListesiniYenile();
-        seciliTalepDetayGoster();
-        if (girisYapanEkipLideri != null) {
-            ekipLideriTalepleriniYenile();
-            ekipLideriTalepDetayGoster();
-        }
-        JOptionPane.showMessageDialog(this, "Ek bilgi isteği ekip liderine ve müşteriye kaydedildi.");
-    }
+    
 
     private void cozulduYap() {
         if (girisYapanCalisan == null) {
             JOptionPane.showMessageDialog(this, "Önce teknik çalışan girişi yapınız.");
             return;
         }
+
         if (seciliTalep == null) {
-            JOptionPane.showMessageDialog(this, "Lütfen listeden bir talep seçiniz.");
+            seciliTalep = talepListesi.getSelectedValue();
+        }
+
+        if (seciliTalep == null) {
+            JOptionPane.showMessageDialog(this, "Lütfen önce listeden bir talep seçiniz.");
             return;
         }
+
+        String calisanAdi = girisYapanCalisan.getAdSoyad();
+
+        if (seciliTalep.getTamamlayanCalisanlar() != null &&
+                seciliTalep.getTamamlayanCalisanlar().toLowerCase().contains(calisanAdi.toLowerCase())) {
+
+            JOptionPane.showMessageDialog(this, "Bu talep için işinizi zaten tamamladınız. Tekrar tamamlandı gönderemezsiniz.");
+            return;
+        }
+
         String cozumNotu = teknikNotArea.getText().trim();
+
         if (cozumNotu.isEmpty()) {
             JOptionPane.showMessageDialog(this, "Lütfen yaptığınız iş ile ilgili not giriniz.");
             return;
         }
-        String bilgi = girisYapanCalisan.getAdSoyad() + " kendi işini tamamladı: " + cozumNotu;
+
+        String bilgi = calisanAdi + " kendi işini tamamladı: " + cozumNotu;
+
         seciliTalep.setTeknikNot(bilgi);
         seciliTalep.teknikBilgiEkle(bilgi);
-        seciliTalep.calisanIsiBitirdi();
+        seciliTalep.calisanTamamladi(calisanAdi);
+
         xmlTalepServisi.talepleriKaydet(talepler);
+
+        boolean herkesBitirdi = seciliTalep.tumCalisanlarTamamladi();
+
         teknikTalepListesiniYenile();
-        seciliTalepDetayGoster();
+
+        seciliTalep = talepListesi.getSelectedValue();
+
+        if (seciliTalep != null) {
+            seciliTalepDetayGoster();
+        } else {
+            teknikTalepArea.setText("İş tamamlama bilginiz ekip liderine gönderildi.");
+        }
+
         if (girisYapanEkipLideri != null) {
             ekipLideriTalepleriniYenile();
             ekipLideriTalepDetayGoster();
         }
-        JOptionPane.showMessageDialog(this, "İş tamamlama bilginiz ekip liderine gönderildi.");
+
+        if (herkesBitirdi) {
+            JOptionPane.showMessageDialog(this, "Tüm çalışanlar işi tamamladı. Talep artık ekip liderinin müşteri onayına göndermesini bekliyor.");
+        } else {
+            JOptionPane.showMessageDialog(this, "İş tamamlama bilginiz ekip liderine gönderildi. Diğer çalışanların tamamlaması bekleniyor.");
+        }
+
+        teknikNotArea.setText("");
     }
 
     private void yoneticiGirisYap() {

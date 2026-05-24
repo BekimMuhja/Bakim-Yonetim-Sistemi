@@ -16,6 +16,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -36,6 +37,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -56,6 +58,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -76,6 +79,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -96,6 +100,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -116,6 +121,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -136,6 +142,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -156,6 +163,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -176,6 +184,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -196,6 +205,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -216,6 +226,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -236,6 +247,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -256,6 +268,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -276,6 +289,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -296,6 +310,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -316,6 +331,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>4</puan>
         <puanlandi>true</puanlandi>
@@ -336,6 +352,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -356,6 +373,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -376,6 +394,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -396,6 +415,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -416,6 +436,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -436,6 +457,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -456,6 +478,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -476,6 +499,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -496,6 +520,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -516,6 +541,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -536,6 +562,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -556,6 +583,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -576,6 +604,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -596,6 +625,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -616,6 +646,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -636,6 +667,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -656,6 +688,7 @@
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -677,12 +710,23 @@
 Burak Yılmaz kendi işini tamamladı: her sey oldu
 Fatma Yazılımcı kendi işini tamamladı: her sey oldu
 
+
+
+
+
+
 </calisanDurumlari>
         <ekipLideriNotlari>Ekip lideri çözümü müşteriye gönderdi: Lider Ali
 Ekip lideri çözümü müşteriye gönderdi: Lider Ali
 
+
+
+
+
+
 </ekipLideriNotlari>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>4</puan>
         <puanlandi>true</puanlandi>
@@ -703,6 +747,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -723,6 +768,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -743,6 +789,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -763,6 +810,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -783,6 +831,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -803,6 +852,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -823,6 +873,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -843,6 +894,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -863,6 +915,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -883,6 +936,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -903,6 +957,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -923,6 +978,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -943,6 +999,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -963,6 +1020,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -983,6 +1041,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1003,6 +1062,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1023,6 +1083,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1042,9 +1103,15 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <atananCalisanlar>Emre Kaya (Donanim), Fatma Yazılımcı (Yazilim), Gokhan Bilgin (Elektronik), </atananCalisanlar>
         <calisanDurumlari>Fatma Yazılımcı kendi işini tamamladı: her sey oldu
 
+
+
+
+
+
 </calisanDurumlari>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1065,6 +1132,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1085,6 +1153,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1105,6 +1174,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1125,6 +1195,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1145,6 +1216,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1165,6 +1237,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1185,6 +1258,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1198,13 +1272,15 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <aciklama>test</aciklama>
         <durum>TEKNIK_CALISANLARA_ATANDI</durum>
         <tarih>2026-05-17</tarih>
-        <teknikNot/>
+        <teknikNot>Ayşe Uzman kendi işini tamamladı: yaptim</teknikNot>
         <ekipLideri>Sejid Dulaj</ekipLideri>
         <gerekliAlanlar>Ag, Elektrik, Mekanik, Kamera Sistemleri, </gerekliAlanlar>
         <atananCalisanlar>Ayşe Uzman (Ag), Ali Can Tatli (Elektrik), Fatih Baskan (Mekanik), Uygun çalışan yok (Kamera Sistemleri), </atananCalisanlar>
-        <calisanDurumlari/>
+        <calisanDurumlari>Ayşe Uzman kendi işini tamamladı: yaptim
+</calisanDurumlari>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar>Ayşe Uzman,</tamamlayanCalisanlar>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1225,6 +1301,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1245,6 +1322,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1265,6 +1343,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1285,6 +1364,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1305,6 +1385,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1325,6 +1406,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1345,6 +1427,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1365,6 +1448,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1385,6 +1469,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1405,6 +1490,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1425,6 +1511,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1445,6 +1532,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1465,6 +1553,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1485,6 +1574,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <calisanDurumlari/>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
         <retSayisi>0</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
@@ -1514,16 +1604,230 @@ Beklenti:
 Sorunun kök nedeni bulunmalı, sistemler yeniden çalışır hale getirilmeli, veri kaybı kontrol edilmeli ve tekrar yaşanmaması için teknik öneriler sunulmalıdır.</aciklama>
         <durum>EKIP_LIDERINDE</durum>
         <tarih>2026-05-22</tarih>
-        <teknikNot>Müşteri çözümü reddetti: hic bir bilgi yok ki nasil cozuldu</teknikNot>
+        <teknikNot>Müşteri reddetti.</teknikNot>
         <ekipLideri>koco fani</ekipLideri>
         <gerekliAlanlar/>
         <atananCalisanlar/>
         <calisanDurumlari/>
         <ekipLideriNotlari>Ekip lideri koco fani departman ve kişi ataması yaptı.
 Ekip lideri çözümü müşteriye gönderdi: koco fani
+
+
+
+
+
 </ekipLideriNotlari>
         <musteriCevaplari>Müşteri çözümü reddetti: hic bir bilgi yok ki nasil cozuldu
+
+
+
+
+
 </musteriCevaplari>
+        <tamamlayanCalisanlar/>
+        <retSayisi>1</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1076</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-24</tarih>
+        <teknikNot/>
+        <ekipLideri>koco fani</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1077</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-24</tarih>
+        <teknikNot/>
+        <ekipLideri>koco fani</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1078</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-24</tarih>
+        <teknikNot/>
+        <ekipLideri>koco fani</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari/>
+        <ekipLideriNotlari/>
+        <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1079</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>KAPANDI</durum>
+        <tarih>2026-05-24</tarih>
+        <teknikNot>koco fani kendi işini tamamladı: isimi tamamladim</teknikNot>
+        <ekipLideri>andi ymeraj</ekipLideri>
+        <gerekliAlanlar>Donanim (1 kişi), Ag (1 kişi), </gerekliAlanlar>
+        <atananCalisanlar>Ali Teknik (Donanim), koco fani (Ag), </atananCalisanlar>
+        <calisanDurumlari>Ali Teknik kendi işini tamamladı: isimi tamamladim
+Ali Teknik kendi işini tamamladı: isimi tamamladim
+Ali Teknik kendi işini tamamladı: isimi tamamladim
+koco fani kendi işini tamamladı: isimi tamamladim
+
+
+
+</calisanDurumlari>
+        <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
+Ekip lideri çözümü müşteriye gönderdi: andi ymeraj
+
+
+
+</ekipLideriNotlari>
+        <musteriCevaplari/>
+        <tamamlayanCalisanlar>Ali Teknik,koco fani,</tamamlayanCalisanlar>
+        <retSayisi>0</retSayisi>
+        <puan>3</puan>
+        <puanlandi>true</puanlandi>
+    </talep>
+    <talep>
+        <id>1080</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>KAPANDI</durum>
+        <tarih>2026-05-24</tarih>
+        <teknikNot>Ekip Lideri Çözüm Notu: is cozuldu</teknikNot>
+        <ekipLideri>andi ymeraj</ekipLideri>
+        <gerekliAlanlar>Donanim (1 kişi), Ag (1 kişi), </gerekliAlanlar>
+        <atananCalisanlar>Emre Kaya (Donanim), koco fani (Ag), </atananCalisanlar>
+        <calisanDurumlari>Emre Kaya kendi işini tamamladı: yaptim
+koco fani kendi işini tamamladı: ben de yaptim
+</calisanDurumlari>
+        <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
+Ekip lideri çözümü müşteriye gönderdi: andi ymeraj | Not: is cozuldu
+</ekipLideriNotlari>
+        <musteriCevaplari/>
+        <tamamlayanCalisanlar>Emre Kaya,koco fani,</tamamlayanCalisanlar>
+        <retSayisi>0</retSayisi>
+        <puan>4</puan>
+        <puanlandi>true</puanlandi>
+    </talep>
+    <talep>
+        <id>1081</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>KAPANDI</durum>
+        <tarih>2026-05-24</tarih>
+        <teknikNot/>
+        <ekipLideri>andi ymeraj</ekipLideri>
+        <gerekliAlanlar>Donanim (2 kişi), Ag (1 kişi), Elektronik (1 kişi), Mekanik (1 kişi), </gerekliAlanlar>
+        <atananCalisanlar>Emre Kaya (Donanim), Burak Yılmaz (Donanim), koco fani (Ag), Gokhan Bilgin (Elektronik), Fatih Baskan (Mekanik), </atananCalisanlar>
+        <calisanDurumlari/>
+        <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
+Ekip lideri çözümü müşteriye gönderdi: andi ymeraj
+
+
+
+
+</ekipLideriNotlari>
+        <musteriCevaplari/>
+        <tamamlayanCalisanlar/>
+        <retSayisi>0</retSayisi>
+        <puan>4</puan>
+        <puanlandi>true</puanlandi>
+    </talep>
+    <talep>
+        <id>1082</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>CALISANLAR_ISI_TAMAMLADI</durum>
+        <tarih>2026-05-24</tarih>
+        <teknikNot>Yusuf Karaca kendi işini tamamladı: ben de isimi halletim</teknikNot>
+        <ekipLideri>andi ymeraj</ekipLideri>
+        <gerekliAlanlar>Donanim (1 kişi), Ag (1 kişi), </gerekliAlanlar>
+        <atananCalisanlar>Mehmet Usta (Donanim), Yusuf Karaca (Ag), </atananCalisanlar>
+        <calisanDurumlari>Mehmet Usta kendi işini tamamladı: tamamladim
+Yusuf Karaca kendi işini tamamladı: ben de isimi halletim
+
+
+</calisanDurumlari>
+        <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
+Ekip lideri çözümü müşteriye gönderdi: andi ymeraj
+
+
+</ekipLideriNotlari>
+        <musteriCevaplari/>
+        <tamamlayanCalisanlar>Mehmet Usta,Yusuf Karaca,</tamamlayanCalisanlar>
+        <retSayisi>0</retSayisi>
+        <puan>0</puan>
+        <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1083</id>
+        <musteri>test</musteri>
+        <kurum>test</kurum>
+        <departman>test</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>test</aciklama>
+        <durum>EKIP_LIDERINDE</durum>
+        <tarih>2026-05-24</tarih>
+        <teknikNot>Müşteri çözümü reddetti: olmamis maalesef</teknikNot>
+        <ekipLideri>andi ymeraj</ekipLideri>
+        <gerekliAlanlar/>
+        <atananCalisanlar/>
+        <calisanDurumlari>Ayşe Uzman kendi işini tamamladı: yaptim
+Burak Yılmaz kendi işini tamamladı: ismi halettim
+</calisanDurumlari>
+        <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
+Ekip lideri çözümü müşteriye gönderdi: andi ymeraj | Not: her sey cozuldu umarim iyi olmus
+</ekipLideriNotlari>
+        <musteriCevaplari>Müşteri çözümü reddetti: olmamis maalesef
+</musteriCevaplari>
+        <tamamlayanCalisanlar/>
         <retSayisi>1</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
