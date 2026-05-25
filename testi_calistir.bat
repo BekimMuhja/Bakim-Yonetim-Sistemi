@@ -23,6 +23,6 @@ if %ERRORLEVEL% neq 0 (
 echo.
 echo === Testler calistiriliyor ===
 echo.
-"%JAVA%" -jar "%JAR%" execute --class-path "%BASE%bin" --select-class=EkBilgiAkisiTest --select-class=CokluCalisanVeRetDongusuTest
+"%JAVA%" -jar "%JAR%" execute --class-path "%BASE%bin" --select-class=KismiTamamlamaVeEksikAtamaTest
 
 pause

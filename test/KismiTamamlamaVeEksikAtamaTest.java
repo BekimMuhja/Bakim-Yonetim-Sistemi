@@ -3,19 +3,21 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-@DisplayName("Çoklu Çalışan Tamamlama & Yük Dengeleme")
-public class CokluCalisanVeRetDongusuTest {
+@DisplayName("Kısmi Tamamlama & Eksik Çalışanla Atama")
+public class KismiTamamlamaVeEksikAtamaTest {
 
     private Musteri musteri;
     private EkipLideri lider;
     private HizmetTalebi talep;
     private AtamaServisi atamaServisi;
+    private java.util.List<TeknikCalisan> calisanlar;
 
     @BeforeEach
     void setUp() {
         musteri = TestHelper.standartMusteri();
         lider = TestHelper.musaitLider("Lider Mehmet");
         atamaServisi = TestHelper.atamaServisi();
+        calisanlar = TestHelper.ornekCalisanListesi();
         talep = new HizmetTalebi("Donanim",
                 "Sunucu odasında hem donanım hem ağ hem yazılım sorunu var", musteri);
         talep.setEkipLideri(lider);
@@ -34,7 +36,6 @@ public class CokluCalisanVeRetDongusuTest {
     @Test
     @DisplayName("3 çalışandan yalnızca biri veya ikisi bitirdiğinde durum değişmemeli, hepsi bitirince CALISANLAR_ISI_TAMAMLADI olmalı")
     void kismiTamamlamaErkenDurumDegisikligineYolAcmamali() {
-        // 3 çalışan atanıyor (AtamaServisi'nin ürettiği formatta)
         talep.setAtananCalisanlar(
                 "Ali Teknik (Donanim), Ayşe Uzman (Ag), Fatma Yazılımcı (Yazilim),");
 
@@ -74,42 +75,38 @@ public class CokluCalisanVeRetDongusuTest {
 
     // ── Test 2 ──────────────────────────────────────────────────────────────────
     /**
-     Senaryo: Aynı alandan iki çalışan var, iş yükleri farklı.
-     Ardı ardına 4 talep geldiğinde AtamaServisi her seferinde en az
-     yüklü çalışanı seçmeli; böylece iş yükü eşit dağılmalı.
+     Senaryo: Ekip lideri Donanım departmanından 3 kişi talep eder,
+     ancak havuzda yalnızca 2 Donanım çalışanı vardır.
 
-     Başlangıç: Ali (0 aktif talep), Mehmet (0 aktif talep)
-     Beklenen dağılım: 4 talep sonunda her biri 2'şer talep almış olmalı.
-     Hiçbiri diğerinden 1'den fazla fazla talep taşımamalı.
-
-     Bu test IncelemeVeCalisanAtamaTest'ten farklıdır: orada tek bir
-     atama yapılır; burada çok sayıda ardışık atama sonucunda
-     birikimli iş yükü dengesi ölçülür.
+     Beklenen sonuç:
+        - Mevcut 2 çalışan atanır, "Eksik çalışan: 1 kişi" notu eklenir.
+        - Eksik kadro olsa bile talep işleme alınır:
+          durum EKIP_LIDERI_ONAY_BEKLIYOR olur.
+        - atananCalisanlar hem gerçek çalışanları hem eksik notu içerir.
      **/
     @Test
-    @DisplayName("Çok talep geldiğinde AtamaServisi iş yükünü çalışanlar arasında dengeli dağıtmalı")
-    void cokTalepGeldigindeCalisanlaraEsitYukDagitilmali() {
-        TeknikCalisan ali    = TestHelper.musaitCalisan("Ali Teknik", "Donanim");
-        TeknikCalisan mehmet = TestHelper.musaitCalisan("Mehmet Usta", "Donanim");
+    @DisplayName("Departmanda eksik çalışan olduğunda mevcut kadro atanmalı ve talep yine de işleme alınmalı")
+    void eksikCalisanlaAtamaYapildigindaTalepIslemAlinmali() {
+        // ornekCalisanListesi: Donanım'da Ali Teknik (1) ve Mehmet Usta (3) var → toplam 2 kişi
+        // 3 kişi isteniyor → 1 eksik kalacak
+        java.util.List<String> alanlar = java.util.List.of("Donanim");
+        java.util.List<Integer> kisiSayilari = java.util.List.of(3);
 
-        java.util.List<TeknikCalisan> havuz = new java.util.ArrayList<>();
-        havuz.add(ali);
-        havuz.add(mehmet);
+        String sonuc = atamaServisi.departmanlaraGoreCalisanAta(
+                talep, alanlar, kisiSayilari, calisanlar);
 
-        // 4 talep ardarda gelir; her atama çalışanın sayacını artırır
-        for (int i = 1; i <= 4; i++) {
-            HizmetTalebi t = new HizmetTalebi("Donanim", "Ariza " + i, musteri);
-            TeknikCalisan secilen = atamaServisi.uygunCalisanBul("Donanim", havuz);
-            assertNotNull(secilen, "Talep " + i + " için uygun çalışan bulunmalı");
-            t.calisanaAta(secilen);
-        }
+        // Mevcut 2 Donanım çalışanı atanmış olmalı
+        assertTrue(sonuc.contains("Ali Teknik"),
+                "Mevcut Donanım çalışanı Ali Teknik atanmalı");
+        assertTrue(sonuc.contains("Mehmet Usta"),
+                "Mevcut Donanım çalışanı Mehmet Usta atanmalı");
 
-        int aliYuk    = ali.getAktifTalepSayisi();
-        int mehmetYuk = mehmet.getAktifTalepSayisi();
+        // Eksik kadro notu eklenmiş olmalı
+        assertTrue(sonuc.contains("Eksik çalışan"),
+                "Karşılanamayan kota için 'Eksik çalışan' notu olmalı");
 
-        assertEquals(4, aliYuk + mehmetYuk,
-                "Toplam 4 talep ikisi arasında paylaşılmış olmalı");
-        assertTrue(Math.abs(aliYuk - mehmetYuk) <= 1,
-                "İş yükü farkı en fazla 1 olmalı; Ali=" + aliYuk + " Mehmet=" + mehmetYuk);
+        // Eksik kadro olsa bile talep işleme alınmalı
+        assertEquals(TalepDurumu.EKIP_LIDERI_ONAY_BEKLIYOR, talep.getDurum(),
+                "Eksik çalışan olsa bile talep EKIP_LIDERI_ONAY_BEKLIYOR durumuna geçmeli");
     }
 }

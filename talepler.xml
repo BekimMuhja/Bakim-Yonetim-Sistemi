@@ -715,9 +715,11 @@ Fatma Yazılımcı kendi işini tamamladı: her sey oldu
 
 
 
+
 </calisanDurumlari>
         <ekipLideriNotlari>Ekip lideri çözümü müşteriye gönderdi: Lider Ali
 Ekip lideri çözümü müşteriye gönderdi: Lider Ali
+
 
 
 
@@ -1108,6 +1110,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
 
 
 
+
 </calisanDurumlari>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
@@ -1277,6 +1280,7 @@ Ekip lideri çözümü müşteriye gönderdi: Lider Ali
         <gerekliAlanlar>Ag, Elektrik, Mekanik, Kamera Sistemleri, </gerekliAlanlar>
         <atananCalisanlar>Ayşe Uzman (Ag), Ali Can Tatli (Elektrik), Fatih Baskan (Mekanik), Uygun çalışan yok (Kamera Sistemleri), </atananCalisanlar>
         <calisanDurumlari>Ayşe Uzman kendi işini tamamladı: yaptim
+
 </calisanDurumlari>
         <ekipLideriNotlari/>
         <musteriCevaplari/>
@@ -1616,8 +1620,10 @@ Ekip lideri çözümü müşteriye gönderdi: koco fani
 
 
 
+
 </ekipLideriNotlari>
         <musteriCevaplari>Müşteri çözümü reddetti: hic bir bilgi yok ki nasil cozuldu
+
 
 
 
@@ -1712,9 +1718,11 @@ koco fani kendi işini tamamladı: isimi tamamladim
 
 
 
+
 </calisanDurumlari>
         <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
 Ekip lideri çözümü müşteriye gönderdi: andi ymeraj
+
 
 
 
@@ -1740,9 +1748,11 @@ Ekip lideri çözümü müşteriye gönderdi: andi ymeraj
         <atananCalisanlar>Emre Kaya (Donanim), koco fani (Ag), </atananCalisanlar>
         <calisanDurumlari>Emre Kaya kendi işini tamamladı: yaptim
 koco fani kendi işini tamamladı: ben de yaptim
+
 </calisanDurumlari>
         <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
 Ekip lideri çözümü müşteriye gönderdi: andi ymeraj | Not: is cozuldu
+
 </ekipLideriNotlari>
         <musteriCevaplari/>
         <tamamlayanCalisanlar>Emre Kaya,koco fani,</tamamlayanCalisanlar>
@@ -1766,6 +1776,7 @@ Ekip lideri çözümü müşteriye gönderdi: andi ymeraj | Not: is cozuldu
         <calisanDurumlari/>
         <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
 Ekip lideri çözümü müşteriye gönderdi: andi ymeraj
+
 
 
 
@@ -1794,9 +1805,11 @@ Ekip lideri çözümü müşteriye gönderdi: andi ymeraj
 Yusuf Karaca kendi işini tamamladı: ben de isimi halletim
 
 
+
 </calisanDurumlari>
         <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
 Ekip lideri çözümü müşteriye gönderdi: andi ymeraj
+
 
 
 </ekipLideriNotlari>
@@ -1815,21 +1828,49 @@ Ekip lideri çözümü müşteriye gönderdi: andi ymeraj
         <aciklama>test</aciklama>
         <durum>EKIP_LIDERINDE</durum>
         <tarih>2026-05-24</tarih>
-        <teknikNot>Müşteri çözümü reddetti: olmamis maalesef</teknikNot>
+        <teknikNot>Müşteri reddetti.</teknikNot>
         <ekipLideri>andi ymeraj</ekipLideri>
         <gerekliAlanlar/>
         <atananCalisanlar/>
         <calisanDurumlari>Ayşe Uzman kendi işini tamamladı: yaptim
 Burak Yılmaz kendi işini tamamladı: ismi halettim
+
 </calisanDurumlari>
         <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
 Ekip lideri çözümü müşteriye gönderdi: andi ymeraj | Not: her sey cozuldu umarim iyi olmus
+
 </ekipLideriNotlari>
         <musteriCevaplari>Müşteri çözümü reddetti: olmamis maalesef
+
 </musteriCevaplari>
         <tamamlayanCalisanlar/>
         <retSayisi>1</retSayisi>
         <puan>0</puan>
         <puanlandi>false</puanlandi>
+    </talep>
+    <talep>
+        <id>1084</id>
+        <musteri>ali</musteri>
+        <kurum>desidero</kurum>
+        <departman>elektrik</departman>
+        <alan>Ekip Lideri Belirleyecek</alan>
+        <aciklama>sdad</aciklama>
+        <durum>KAPANDI</durum>
+        <tarih>2026-05-25</tarih>
+        <teknikNot>Ekip Lideri Çözüm Notu: ssss</teknikNot>
+        <ekipLideri>andi ymeraj</ekipLideri>
+        <gerekliAlanlar>Donanim (1 kişi), Yazilim (1 kişi), </gerekliAlanlar>
+        <atananCalisanlar>Ali Teknik (Donanim), Zeynep Arslan (Yazilim), </atananCalisanlar>
+        <calisanDurumlari>Ali Teknik kendi işini tamamladı: s
+Zeynep Arslan kendi işini tamamladı: a
+</calisanDurumlari>
+        <ekipLideriNotlari>Ekip lideri andi ymeraj departman ve kişi ataması yaptı.
+Ekip lideri çözümü müşteriye gönderdi: andi ymeraj | Not: ssss
+</ekipLideriNotlari>
+        <musteriCevaplari/>
+        <tamamlayanCalisanlar>Ali Teknik,Zeynep Arslan,</tamamlayanCalisanlar>
+        <retSayisi>0</retSayisi>
+        <puan>4</puan>
+        <puanlandi>true</puanlandi>
     </talep>
 </talepler>
