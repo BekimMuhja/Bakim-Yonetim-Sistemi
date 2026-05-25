@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat \"d:/OneDrive/Kişisel/Yazılım Mühendisliği/Proje/bakim_yonetim_sistemi_guncel/bakim_yonetim_sistemi/src/test/java/EkBilgiAkisiTest.java\")",
+      "Read(//d/OneDrive/Kişisel/Yazılım Mühendisliği/Proje/bakim_yonetim_sistemi_guncel/bakim_yonetim_sistemi/src/test/java/**)",
+      "Bash(rm \"d:/OneDrive/Kişisel/Yazılım Mühendisliği/Proje/bakim_yönetim_sistemi_github/Bakim-Yonetim-Sistemi/test/RaporVeCalisanYonetimiTest.java\")",
+      "Bash(cp \"d:/OneDrive/Kişisel/Yazılım Mühendisliği/Proje/bakim_yonetim_sistemi_guncel/bakim_yonetim_sistemi/src/test/java/EkBilgiAkisiTest.java\" \"d:/OneDrive/Kişisel/Yazılım Mühendisliği/Proje/bakim_yönetim_sistemi_github/Bakim-Yonetim-Sistemi/test/\")",
+      "PowerShell(Get-Command java -ErrorAction SilentlyContinue | Select-Object -ExpandProperty Source; [System.Environment]::GetEnvironmentVariable\\(\"JAVA_HOME\", \"Machine\"\\); [System.Environment]::GetEnvironmentVariable\\(\"JAVA_HOME\", \"User\"\\))"
+    ]
+  }
+}
